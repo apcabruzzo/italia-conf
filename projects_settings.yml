@@ -3,7 +3,7 @@ projects:
     description: |
       Collabora alla stesura della normativa regionale in materia di Protezione Civile.
     documents:
-      - tupc
+      - tupc-docs
     short_name: PPNRA
     website: 
     tags:
