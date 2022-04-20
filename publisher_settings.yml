@@ -1,0 +1,12 @@
+publisher:
+  name: Agenzia Regionale Protezione Civile Abruzzo
+  description: |
+    La protezione civile più che una struttura è una "funzione" definita come un complesso di attività finalizzate alla sicurezza e alla tutela dei cittadini, dei beni e dell'ambiente colpiti da eventi o calamità naturali connesse con l'attività dell'uomo, nonché alla previsione e prevenzione dei diversi rischi a cui è soggetto un territorio.
+  github_organization_url: github.com/apcabruzzo
+  short_name: APC Abruzzo
+  website: 
+  tags:
+    - 
+    - 
+    - 
+  logo: logo.svg
